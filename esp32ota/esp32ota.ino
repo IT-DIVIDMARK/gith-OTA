@@ -9,9 +9,9 @@ const char* password = "password";
 
 // ===== OTA configuration =====
 #define DEVICE_ID 2
-#define FIRMWARE_VERSION "1.0.15"
+#define FIRMWARE_VERSION "1.0.16"
 
-const char* versionURL = "https://raw.githubusercontent.com/IT-DIVIDMARK/gith-OTA/main/version.json";
+const char* versionURL = "https://raw.githubusercontent.com/IT-DIVIDMARK/esp32ota/main/version.json";
 String firmwareURL;
 
 // ===== Function prototypes =====
