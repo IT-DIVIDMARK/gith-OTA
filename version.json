@@ -1,4 +1,5 @@
 {
-  "version": "1.0.7",
-  "firmware": "https://raw.githubusercontent.com/IT-DIVIDMARK/esp32ota/main/esp32ota.ino.esp32.bin"
+  "device_id": 1,
+  "version": "1.0.19",
+  "firmware": "https://raw.githubusercontent.com/IT-DIVIDMARK/esp32ota/main/esp32ota.ino.esp32da.bin"
 }
