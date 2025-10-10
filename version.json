@@ -1,5 +1,5 @@
 {
   "device_id": 1,
-  "version": "1.0.19",
+  "version": "1.0.16",
   "firmware": "https://raw.githubusercontent.com/IT-DIVIDMARK/gith-OTA/main/esp32ota/esp32ota.ino.esp32da.bin"
 }
